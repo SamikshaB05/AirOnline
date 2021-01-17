@@ -252,15 +252,15 @@ color: #fff;
 }
 #Box3 .myCard{
   margin: 0% 15% 12%;
-    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
+/*     box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2); */
 }
 #Box3 .myCard2{
   margin: 0% 15% 12%;
-      box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
+/*       box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2); */
 }
 #Box3 .myCard3{
   margin: 0% 15% 12%;
-    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2);
+/*     box-shadow: 0 15px 20px rgba(0, 0, 0, 0.2); */
 }
 #Box3 .card-grey{
   color: #878787;
