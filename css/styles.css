@@ -416,11 +416,19 @@ ul {
 
 
 @media (max-width:1026px) {
+  #Box1{
+  background: url("../images/landingPage (4).jpg") no-repeat center center fixed;
+ background-size: cover;
+ height: 50vh;
+ display: flex;
+ justify-content: center;
+ z-index: -1;
+}
   #Box1 h1{
     font-size: 3rem;
   }
 
-  #form{
+/*   #form{
     background-color: #000;
     height: 800px;
     width: 400px;
@@ -448,22 +456,22 @@ ul {
    background: transparent;
    color: #fff;
   }
-
+ */
   #Box2 .card{
     margin-left: 23%;
     margin-bottom: 4%;
   }
     /* Cards */
     .myCard{
-      box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+/*       box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2); */
     }
     .myCard2{
         margin: 10% 20% 12%;
-        box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+/*         box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2); */
     }
     .myCard3{
       margin: 10% 20% 12%;
-      box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+/*       box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2); */
     }
 
     #card1 .card{
