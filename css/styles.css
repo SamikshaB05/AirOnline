@@ -116,7 +116,7 @@ hr{
 }
 
 /* Booking */
-.booking-bg{
+/* .booking-bg{
   background: url("../images/landingPage (7).jpg") no-repeat center center fixed;
   background-size: cover;
   height: 700px;
@@ -124,7 +124,7 @@ hr{
   display: flex;
   justify-content: center;
   z-index: -1;
-}
+} */
 #form{
   background-color: #000;
   height: 500px;
@@ -415,7 +415,7 @@ ul {
 }
 
 
-@media screen and (min-width:2000px) {
+@media screen and (max-width:2000px) {
   #Box1{
   background: url("../images/landingPage (4).jpg") no-repeat center center fixed;
  background-size: cover;
