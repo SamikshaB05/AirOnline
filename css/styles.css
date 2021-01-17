@@ -415,7 +415,7 @@ ul {
 }
 
 
-@media screen and (min-width:480px) {
+@media screen and (min-width:2000px) {
   #Box1{
   background: url("../images/landingPage (4).jpg") no-repeat center center fixed;
  background-size: cover;
