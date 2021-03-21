@@ -463,19 +463,19 @@ ul {
   }
     /* Cards */
     #card1.myCard{
-/*       box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2); */
+      box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2); 
     }
     #card1.myCard2{
         margin: 10% 20% 12%;
-/*         box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2); */
+         box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2); 
     }
     #card1.myCard3{
       margin: 10% 20% 12%;
-/*       box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2); */
+      box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
     }
 
     #card1 .card{
-      width:10rem;
+      width:30rem;
     }
 
      /* Box4 */
