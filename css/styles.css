@@ -29,6 +29,7 @@ body{
   margin: 0px;
   box-sizing: border-box;
 overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 /* global elements */
