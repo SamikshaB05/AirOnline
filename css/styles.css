@@ -430,7 +430,7 @@ ul {
     font-size: 3rem;
   }
 
-/*   #form{
+   #form{
     background-color: #000;
     height: 800px;
     width: 400px;
@@ -458,7 +458,7 @@ ul {
    background: transparent;
    color: #fff;
   }
- */
+ 
   #Box2 .card{
     margin-left: 23%;
     margin-bottom: 4%;
@@ -477,7 +477,7 @@ ul {
     }
 
     #card1 .card{
-      width:30rem;
+      width:23rem;
     }
 
      /* Box4 */
